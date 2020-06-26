@@ -1,0 +1,28 @@
+C:\Users\kensyu\OneDrive - 株式会社 コスモウィンズ\研修\VisualStadio\BlackJack\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\kensyu\OneDrive - 株式会社 コスモウィンズ\研修\VisualStadio\BlackJack\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\kensyu\OneDrive - 株式会社 コスモウィンズ\研修\VisualStadio\BlackJack\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\kensyu\OneDrive - 株式会社 コスモウィンズ\研修\VisualStadio\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+C:\Users\kensyu\OneDrive - 株式会社 コスモウィンズ\研修\VisualStadio\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.Form1.resources
+C:\Users\kensyu\OneDrive - 株式会社 コスモウィンズ\研修\VisualStadio\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+C:\Users\kensyu\OneDrive - 株式会社 コスモウィンズ\研修\VisualStadio\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.cache
+C:\Users\kensyu\OneDrive - 株式会社 コスモウィンズ\研修\VisualStadio\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\kensyu\OneDrive - 株式会社 コスモウィンズ\研修\VisualStadio\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\kensyu005\Downloads\BlackJack\BlackJack\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\kensyu005\Downloads\BlackJack\BlackJack\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\kensyu005\Downloads\BlackJack\BlackJack\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\kensyu005\Downloads\BlackJack\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+C:\Users\kensyu005\Downloads\BlackJack\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.Form1.resources
+C:\Users\kensyu005\Downloads\BlackJack\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+C:\Users\kensyu005\Downloads\BlackJack\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.cache
+C:\Users\kensyu005\Downloads\BlackJack\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\kensyu005\Downloads\BlackJack\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\kensyu005\Downloads\BlackJack\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\kensyu\Downloads\BlackJack\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\kensyu\Downloads\BlackJack\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\kensyu\Downloads\BlackJack\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\kensyu\Downloads\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+C:\Users\kensyu\Downloads\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.Form1.resources
+C:\Users\kensyu\Downloads\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+C:\Users\kensyu\Downloads\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.cache
+C:\Users\kensyu\Downloads\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\kensyu\Downloads\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
